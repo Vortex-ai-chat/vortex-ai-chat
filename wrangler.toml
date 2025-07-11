@@ -1,5 +1,5 @@
-name = "vortex-ai-core"
-compatibility_date = "2024-12-30"
+name = "vortex-ai-chat"
+compatibility_date = "2025-7-10"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
