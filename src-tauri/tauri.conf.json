@@ -9,7 +9,7 @@
   "bundle": {
     "active": true,
     "category": "Productivity",
-    "copyright": "2024, U14.app All Rights Reserved.",
+    "copyright": "2025, Vortex Ai chat all rights reserved.",
     "targets": "all",
     "externalBin": [],
     "icon": ["icons/32x32.png", "icons/128x128.png", "icons/128x128@2x.png", "icons/icon.icns", "icons/icon.ico"],
@@ -34,10 +34,10 @@
       }
     }
   },
-  "productName": "vortex-ai-core",
-  "mainBinaryName": "vortex-ai-core",
-  "version": "1.10.1",
-  "identifier": "com.u14.app",
+  "productName": "vortex-ai-chat",
+  "mainBinaryName": "vortex-ai-chat",
+  "version": "0.1.0",
+  "identifier": "com.Vortex.AiChat",
   "plugins": {},
   "app": {
     "windows": [
