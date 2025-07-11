@@ -2,7 +2,7 @@
   "name": "Vortex AI chat",
   "short_name": "Vortex AI chat",
   "description": "Vortex AI chat is a powerful AI chat application that allows you to interact with advanced AI models like Gemini Pro, Gemini 2.0, and Gemini 2.5. Experience the future of AI chat with our PWA app.",
-  "id": "vortex-ai-core",
+  "id": "vortex-ai-chat",
   "scope": ".",
   "icons": [
     {
